@@ -201,6 +201,7 @@ header .social li:first-child{
 	height: 560px;
 	background: url('../img/hero.webp') no-repeat fixed center center;
 	background-size: cover;
+	background-position: 50% 45px;
 }
 
 .hero .caption{
